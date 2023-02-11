@@ -107,4 +107,4 @@ Remember that:
 * In JSX, you need to replace certain attributes such as class with className and for with htmlFor.
 * Custom JSX elements represent react components and must be capitalized both in their file names and in their use in the code, so the transpiler can differentiate them from regular HTML.
 
-Next: See **Creating your first React application**
+Next: See [**First React App** (creating your first react application)](https://github.com/JoyZadan/first-react-app)
